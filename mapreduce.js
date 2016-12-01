@@ -22,4 +22,4 @@ db.orders.mapReduce(
 		query: {status: "A"},
 		finalize: finalizer
 	}
-	m)
+)
